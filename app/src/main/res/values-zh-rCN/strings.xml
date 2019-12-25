@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">口算测试</string>
+    <string name="answer_correct_message">回答正确请继续</string>
+    <string name="button_back_to_title">返回</string>
+    <string name="button_submit">确定</string>
+    <string name="current_score">得分:%d</string>
+    <string name="dialog_negative_msg">取消</string>
+    <string name="dialog_positive_msg">确定</string>
+    <string name="high_score_message">最高记录:%d</string>
+    <string name="input_indicator">请开始答题</string>
+    <string name="lose_msg">挑战失败</string>
+    <string name="lose_score_msg">您的得分:</string>
+    <string name="quit_dialog_title">确定离开吗?</string>
+    <string name="result_image_msg">结果照片</string>
+    <string name="title_button_message">开始答题</string>
+    <string name="title_message" translatable="false">口算测试</string>
+    <string name="win_msg" translatable="false">挑战成功</string>
+    <string name="win_score_msg" translatable="false">新纪录:</string>
+    <string name="question_nav_message">测试</string>
+    <string name="result_nav_message">结果</string>
+    <string name="title_nav_message">欢迎</string>
+</resources>
